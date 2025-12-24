@@ -13,6 +13,6 @@
     "ws://relay2.tllx.eu:6970",
     "ws://relay3.tllx.eu:6971",
     "ws://relay4.tllx.eu:6972",
-    "test"
+    "ws://relay40.tllx.eu:6972",
   ]
 }
